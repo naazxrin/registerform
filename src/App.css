@@ -1,0 +1,15 @@
+*{
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+}
+#all{
+  background-image: url('https://cdn.pixabay.com/photo/2016/10/29/10/16/abstract-1780386_1280.png');
+}
+#itemm{
+  background-image: url('https://png.pngtree.com/thumb_back/fw800/background/20231030/pngtree-aesthetic-sky-blue-blurred-bokeh-background-image_13751320.png');
+}
+#res{
+  font-family: "Baskervville SC", serif;
+
+}
